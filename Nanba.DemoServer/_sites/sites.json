@@ -1,0 +1,7 @@
+﻿[
+  {
+    "$type":  "Nanba.PageModel.FileSystem.FileSystemSite, Nanba.PageModel.FileSystem",
+    "Name": "Demo",
+    "ConnectionString": "C:\\Users\\JeyDotC\\Documents\\visual studio 2015\\Projects\\Nanba\\Nanba.DemoServer\\Demo"
+  }
+]
